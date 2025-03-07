@@ -25,7 +25,6 @@ import { Scroll } from "lucide-react";
 
 const about = {
   title: "About Me",
-  description: "Placeholder",
   info: [
     {
       fieldName: "Name",
@@ -56,8 +55,7 @@ const about = {
 
 const experience = {
   icon: "",
-  title: "My experience",
-  description: "Placeholder",
+  title: "My work experience",
   items: [
     {
       company: "MetLife",
@@ -85,7 +83,6 @@ const experience = {
 const education = {
   icon: "",
   title: "My Education",
-  description: "Placeholder",
   items: [
     {
       institute: "Virginia Tech",
@@ -102,7 +99,6 @@ const education = {
 
 const skills = {
   title: "My Skills",
-  description: "Placeholder",
   skillList: [
     {
       icon: <FaHtml5 />,
